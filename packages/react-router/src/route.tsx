@@ -359,7 +359,7 @@ export function createRootRouteWithContext<TRouterContext extends {}>() {
 }
 
 /**
- * @deprecated Use the `createRootRouteWithContext` function instead.
+ * @deprecated Use the `createRootRouteWithContext` function instead.不要直接使用`createRootRouteWithContext
  */
 export const rootRouteWithContext = createRootRouteWithContext
 
